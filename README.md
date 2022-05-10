@@ -13,6 +13,6 @@ Used Technologies:
 ------------------
 
 User Interface : HTML
-Form Validations : JavaScript
+Form Validations : js
 BackEnd : Java/J2EE(Servlet,JSP,JDBC)
 DataBase : Oracle
